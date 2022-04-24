@@ -88,6 +88,7 @@
 - [MirasIrony](https://github.com/miras-tech/MirasText/tree/master/MirasIrony) - The irony dataset is constructed from Persian tweets. 2942 tweets are labeled in total.
 
 ## Corpus
+- [](https://data.mendeley.com/datasets/jw3zwf8rdp/3) - 1.6G rumers from five telegram channel
 - [TEP: Tehran English-Persian Parallel Corpus](https://ece.ut.ac.ir/web/nlp/resources) - First free English-Persian corpus.
 - [OPUS: the open parallel corpus](http://opus.lingfil.uu.se/) - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. OPUS is based on open source products and the corpus is also delivered as an open content package. We used several tools to compile the current collection. All pre-processing is done automatically. No manual corrections have been carried out.
 - [Tanzil project](http://opus.nlpl.eu/Tanzil.php) - Tanzil project is a collection of Quran translations to many languages, including Persian. 
