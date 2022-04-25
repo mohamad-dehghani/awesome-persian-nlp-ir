@@ -88,6 +88,7 @@
 - [MirasIrony](https://github.com/miras-tech/MirasText/tree/master/MirasIrony) - The irony dataset is constructed from Persian tweets. 2942 tweets are labeled in total.
 
 ## Corpus
+- [Amazon Massive](https://github.com/naarkhoo/awesome-persian-nlp-ir/edit/master/sections/datasets.md) - one million labeled utterances spanning 51 languages, along with open-source code, which provides examples of how to perform massively multilingual NLU modeling and allows practitioners to re-create baseline results for intent classification and slot filling that are presented in our paper.. 
 - [Sepehr_RumTel01](https://data.mendeley.com/datasets/jw3zwf8rdp/3) - 1.6G rumers from five telegram channels
 - [TEP: Tehran English-Persian Parallel Corpus](https://ece.ut.ac.ir/web/nlp/resources) - First free English-Persian corpus.
 - [OPUS: the open parallel corpus](http://opus.lingfil.uu.se/) - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. OPUS is based on open source products and the corpus is also delivered as an open content package. We used several tools to compile the current collection. All pre-processing is done automatically. No manual corrections have been carried out.
